@@ -28,4 +28,4 @@ I am a recent IT graduate focused on building scalable backend systems and full-
 
 ## 📊 GitHub Stats
 
-![Bhavish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavish88&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhavish88&show_icons=true&theme=tokyonight&cache_seconds=1800)
